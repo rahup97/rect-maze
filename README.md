@@ -13,4 +13,8 @@ This is further divided into three different directories where we are trying to 
 
 We have used the OpenCV and numpy libraries in Python to find these solutions. The shortest path algorithm we have used is based on the BFS algorithm.
 
-Credits - IIT-B, e-Yantra Labs
+### Credits
+IIT-B, e-Yantra Labs
+
+#### Other Contributors
+Chethan K P - [chethan749](https://github.com/chethan749)
